@@ -15,6 +15,7 @@ button {
 }
 
 .site-logo {
+  font-family: Raleway, sans-serif;
   font-weight: bold;
   font-size: 26px;
   line-height: 1.19;
@@ -173,6 +174,7 @@ span {
 }
 
 .footer-site-logo {
+  font-family: Raleway, sans-serif;
   font-weight: bold;
   font-size: 26px;
   line-height: 1.19;
@@ -181,6 +183,7 @@ span {
 }
 
 .addres-city {
+  font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 1.71;
@@ -194,6 +197,7 @@ span {
 }
 
 .address-link {
+  font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 1.71;
@@ -212,7 +216,9 @@ span {
   background-color: var(--main-title-color);
 }
 
-.filter-item {
+.filter-button {
+  font-family: Roboto;
+  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
